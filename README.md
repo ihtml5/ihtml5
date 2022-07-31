@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on BAT
 - 🌱 I’m currently learning Javascript
 - 💻  I’m familiar with front-end monitoring, nodejs high concurrency service, rich text editor
-- 📫 How to reach me: phpython8@gmail.com
+- 📫 How to reach me: szmtjs_062408120@qq.com or phpython8@gmail.com
